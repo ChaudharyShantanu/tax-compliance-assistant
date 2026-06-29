@@ -1,0 +1,72 @@
+[
+  {
+    "id": "CASE-2025-001",
+    "taxpayer_name": "Rahul Sharma",
+    "pan": "ABCPE1234F",
+    "ay": "2025-26",
+    "zone": "Delhi",
+    "ward": "Ward 1(1), New Delhi",
+    "flag_reason": "Cash deposit ₹12,00,000 > declared income; property purchase ₹30,05,000 unaccounted",
+    "flag_source": "SFT / AIS",
+    "status": "NOTICE_ISSUED",
+    "created_on": "2025-06-01",
+    "last_updated": "2026-06-27",
+    "notes": "Notice approved. DIN: ITBA/AST/S/142(1)/2025-26/19779432745(1)"
+  },
+  {
+    "id": "CASE-2025-002",
+    "taxpayer_name": "Priya Menon",
+    "pan": "BKZPM5678G",
+    "ay": "2025-26",
+    "zone": "Mumbai",
+    "ward": "Ward 14(3), Mumbai",
+    "flag_reason": "Foreign remittance ₹18,00,000 not declared in ITR; TDS mismatch ₹45,000",
+    "flag_source": "AIS / Form 26AS",
+    "status": "PENDING",
+    "created_on": "2025-06-03",
+    "last_updated": "2025-06-03",
+    "notes": ""
+  },
+  {
+    "id": "CASE-2025-003",
+    "taxpayer_name": "Anil Kapoor Enterprises",
+    "pan": "CRTAE9012H",
+    "ay": "2025-26",
+    "zone": "Bangalore",
+    "ward": "Ward 2(2), Bengaluru",
+    "flag_reason": "Business turnover in AIS ₹85L vs ITR ₹42L; 80C excess claim",
+    "flag_source": "AIS / ITR",
+    "status": "IN_PROGRESS",
+    "created_on": "2025-05-28",
+    "last_updated": "2025-06-10",
+    "notes": "Documents partially received."
+  },
+  {
+    "id": "CASE-2025-004",
+    "taxpayer_name": "Sunita Verma",
+    "pan": "DMPVS3456J",
+    "ay": "2025-26",
+    "zone": "Delhi",
+    "ward": "Ward 6(4), New Delhi",
+    "flag_reason": "High-value FD ₹25L; dividend income ₹3.2L not declared",
+    "flag_source": "AIS",
+    "status": "NOTICE_ISSUED",
+    "created_on": "2025-05-15",
+    "last_updated": "2025-06-18",
+    "notes": "Notice issued on 18-Jun-2025. Awaiting reply."
+  },
+  {
+    "id": "CASE-2025-005",
+    "taxpayer_name": "Mohammed Irfan",
+    "pan": "EHKMI7890K",
+    "ay": "2025-26",
+    "zone": "Hyderabad",
+    "ward": "Ward 5(1), Hyderabad",
+    "flag_reason": "Capital gains ₹22L on share sale not declared; TDS u/s 194K mismatch",
+    "flag_source": "AIS / Form 26AS",
+    "status": "PENDING",
+    "created_on": "2025-06-05",
+    "last_updated": "2025-06-05",
+    "notes": ""
+  }
+]
