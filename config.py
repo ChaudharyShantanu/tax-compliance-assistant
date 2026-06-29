@@ -1,6 +1,6 @@
 # config.py — API keys and rule thresholds
 
-SARVAM_API_KEY  = "sk_n7of003r_V7xUFDljQDG78Zh8pSTxljWR"
+SARVAM_API_KEY  = "Add_your_apiKey_here"
 SARVAM_ENDPOINT = "https://api.sarvam.ai/v1/chat/completions"
 SARVAM_MODEL = "sarvam-30b"
 
