@@ -1,14 +1,6 @@
 # ai/sarvam_client.py
 #
-# TWO focused API calls — never more than 2 per case session:
-#
-#   generate_summary()  — called ONCE after AO validates discrepancies
-#   refine_notice()     — called ONLY when AO clicks Refine
-#
-# Key Sarvam API settings:
-#   - Model: sarvam-30b
-#   - reasoning_effort: null  (disables thinking mode → content not empty)
-#   - max_tokens: 4096
+# TWO focused API calls — never more than 2 per case 
 
 import json
 import re
