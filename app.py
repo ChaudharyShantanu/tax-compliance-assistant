@@ -1,13 +1,4 @@
-# app.py — ITR Verification & Tax Compliance Assistant (v3)
-# Run with: streamlit run app.py
-#
-# SCREEN FLOW:
-#   Screen 0 — Case Dashboard   : AO selects or creates a case
-#   Screen 1 — Case Workspace   : 4-tab investigation flow for the selected case
-#     Tab 1 — Upload Documents
-#     Tab 2 — Review & Validate Issues
-#     Tab 3 — AI Investigation Report
-#     Tab 4 — Draft Notice & Sign-off
+# app.py — ITR Verification & Tax Compliance Assistant
 
 import sys, os
 sys.path.insert(0, os.path.dirname(__file__))
